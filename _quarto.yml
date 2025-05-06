@@ -8,6 +8,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: posts.qmd
+        text: Blog
+      - href: https://www.linkedin.com/in/matthew-greenberg-32b91880/
+        text: LinkedIn
+        target: "_blank"
 
 format:
   html:
@@ -16,6 +21,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
