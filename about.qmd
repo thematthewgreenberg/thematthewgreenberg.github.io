@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+Hi! I'm Matt - a healthcare product manager trying to improve our healthcare system.
