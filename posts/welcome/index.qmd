@@ -1,0 +1,9 @@
+---
+title: "Why the US Healthcare System Isn't So Bad"
+author: "Matthew Greenberg"
+date: "2025-05-20"
+categories: [payor, health systems, pharma, government]
+draft: true
+---
+
+At least we aren't Kenya

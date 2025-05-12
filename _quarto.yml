@@ -2,16 +2,19 @@ project:
   type: website
 
 website:
-  title: "matthewgreenberg"
+  title: "thematthewgreenberg"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: posts.qmd
+      - href: about.qmd
+        text: About
+      - href: index.html
         text: Blog
       - href: https://www.linkedin.com/in/matthew-greenberg-32b91880/
         text: LinkedIn
+        target: "_blank"
+    right:
+      - icon: github
+        href: https://github.com/thematthewgreenberg
         target: "_blank"
 
 format:
@@ -21,3 +24,11 @@ format:
       - brand
     css: styles.css
     toc: true
+    code-fold: true
+    code-tools: true
+    self-contained: true
+    number-sections: true
+    fig-width: 8
+    fig-height: 6
+    fig-format: "png"
+    fig-dpi: 96
